@@ -1,5 +1,9 @@
 Documentation link : https://pathpanchal.atlassian.net/l/cp/qKNbcJ9a (Confluence page)
 
+or
+
+Please refer 'Document.pdf' attached in this project files.
+
 Motive of this project is to create a cloud based IOT irrigation system for domestic purpose.
 Using this one can control the water flow in garden/plants using a portable mobile application.
 This project is the solution to my personal problem. The story is, my mom has a medium sized terrace garden in our house and while she daily nurture it, it grew so green. Once in a summer we all went out for a  vacation during which there was no one to water our garden. When we returned, we saw all the green turned in to yellow or brown which broke my mom’s heart ! At that time her Computer Engineer son (me) decided to put my knowledge to get the permanent solution for this and here we are.!
